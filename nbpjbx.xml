@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://118.178.17.60:8080/nbpj/mobile/download/app.ipa</string>
+                    <string>http://118.178.17.60:8080/nbpj/mobilebx/download/app.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -19,7 +19,7 @@
                     <key>needs-shine</key>
                     <true/>
                     <key>url</key>
-                    <string>http://118.178.17.60:8080/nbpj/mobile/download/icon.png</string>
+                    <string>http://118.178.17.60:8080/nbpj/mobilebx/download/icon.png</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -27,7 +27,7 @@
                     <key>needs-shine</key>
                     <true/>
                     <key>url</key>
-                    <string>http://118.178.17.60:8080/nbpj/mobile/download/icon.png</string>
+                    <string>http://118.178.17.60:8080/nbpj/mobilebx/download/icon.png</string>
                 </dict>
             </array>
             <key>metadata</key>
@@ -35,11 +35,11 @@
                 <key>bundle-identifier</key>
                 <string>com.kld.nbpj</string>
                 <key>bundle-version</key>
-                <string>1.0.4</string>
+                <string>1.0.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>聚源回收-外勤App</string>
+                <string>聚源回收-定损App</string>
             </dict>
         </dict>
     </array>
